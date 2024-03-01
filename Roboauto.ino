@@ -1,4 +1,8 @@
 /* Program that enables two dc-motors to drive and stops them when distance measured by ultrasonic sensor is low
+
+Dc motors and other components are controlled by Arduino uno
+
+-Vesa Lappalainen
 */
 
 
