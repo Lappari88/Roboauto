@@ -1,1 +1,1 @@
-Program for small robotic car controlled by arduino uno
+Program for robotic car controlled by arduino uno
